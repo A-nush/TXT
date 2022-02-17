@@ -1,0 +1,4 @@
+name: Anush
+age: 40
+my pet: cat Jordan
+desired salary: 1000$
