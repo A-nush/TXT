@@ -1,0 +1,4 @@
+favorite movie: The Gentlemen
+favorite TV series: Sherlock
+favorite food: Cheese
+country: Ireland

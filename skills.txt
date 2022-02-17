@@ -1,0 +1,6 @@
+Тестирование API: Postman
+Снифинг http web трафика: Charles
+ADB: Управление андроидi девайсами
+Настройка прокси и vpn: iOS и Android
+Основы SQL: Create, Delete, Drop, Insert Into
+Нагрузочное тестирование: Jmeter
